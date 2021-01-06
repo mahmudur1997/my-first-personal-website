@@ -1,0 +1,63 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+    h1{
+    font-size: 50px;
+}
+.name-highlight{
+    color: chocolate;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    
+}
+.half-width img{
+    width: 70%;
+}
+section{
+    height: 500px;
+    margin-bottom:250px;
+}
+.link-button{
+    text-decoration: none;
+    background-color: cornflowerblue;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+}
+#id1{
+    text-align: center;
+}
+.div-width{
+    width: 25%;
+    border-radius: 5% ;
+    background-color:seashell;
+    height: 50%;
+    
+}
+.box{
+    text-align: center;
+    background-image: url("shapes/Group_33094_1.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 50%;
+    padding-top: 20%;
+    margin-bottom: 0%;
+
+}
+.footer{
+    text-align: center;
+    padding-bottom: 25%;
+}
+.hi{
+    margin-bottom: 0%;
+}
+#text{
+    font-size: small;
+}
+#front-colour{
+    color: tan;
+}
